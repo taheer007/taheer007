@@ -1,3 +1,4 @@
+![logo](https://github.com/taheer007/taheer007/blob/main/Screenshot%202025-03-06%20072349.png)
 <h1 align="center">Hi 👋, I'm Mohammed Taheer</h1>
 <h3 align="center">Web Development | Data Analytics | Embedded Systems</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFjejEzNDN2MnBpdXNnaXhnMnpvaWFmbWE3d3N3ZXozNzNzb3piZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
