@@ -58,5 +58,12 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
   
+<h3>🚀 Projects</h3>
+
+- 💻 [Online Voting System Using Face Recognition](https://github.com/taheer007/online-voting-system)
+- 📊 [Music Streaming Website](https://github.com/taheer007/Music-Streaming-Website)
+- 🤖 [Virtual Desktop Assistant](https://github.com/taheer007/Virtual-Desktop-Assistant)
+- 📅 [Placement Management System](https://github.com/taheer007/Placement-Management-System)
+- 🚗 [Car Price Prediction using Linear and Lasso Regression)](https://github.com/taheer007/Car_Price_Prediction_Using_Linear_and_Lasso_Regression)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&locale=en" alt="taheer007" /></p>
