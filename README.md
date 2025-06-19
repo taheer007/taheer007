@@ -1,9 +1,10 @@
 ![logo](https://github.com/taheer007/taheer007/blob/main/Screenshot%202025-03-06%20072349.png)
 <h1 align="center">Hi 👋, I'm Mohammed Taheer</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Problem Solver</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFjejEzNDN2MnBpdXNnaXhnMnpvaWFmbWE3d3N3ZXozNzNzb3piZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 - 📫 How to reach me **mohammedtaheer206@gmail.com**
+- ⚡ Fun fact: I aim for **O(1)** solutions whenever possible 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
