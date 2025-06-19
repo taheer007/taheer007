@@ -68,3 +68,9 @@
 - 🚗 [Car Price Prediction using Linear and Lasso Regression)](https://github.com/taheer007/Car_Price_Prediction_Using_Linear_and_Lasso_Regression)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&locale=en" alt="taheer007" /></p>
+
+### 💡 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
