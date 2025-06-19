@@ -80,3 +80,10 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&qColor=%23FFDD00" />
 </p>
+
+
+### 🔄 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taheer007&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
