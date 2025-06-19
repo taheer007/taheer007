@@ -1,4 +1,28 @@
 ![logo](https://github.com/taheer007/taheer007/blob/main/Screenshot%202025-03-06%20072349.png)
+
+<details>
+<summary>🌞 Light Mode</summary>
+
+<!-- Place your light-themed stats or images here -->
+<img src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taheer007&layout=compact&theme=default" />
+
+</details>
+
+<details>
+<summary>🌙 Dark Mode</summary>
+
+<!-- Place your dark-themed stats or images here -->
+<img src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taheer007&layout=compact&theme=github_dark" />
+
+</details>
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Mohammed Taheer</h1>
 <h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Problem Solver</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFjejEzNDN2MnBpdXNnaXhnMnpvaWFmbWE3d3N3ZXozNzNzb3piZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
