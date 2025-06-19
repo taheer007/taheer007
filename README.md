@@ -74,3 +74,9 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+### 😂 Dev Joke (Because Why Not)
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&qColor=%23FFDD00" />
+</p>
