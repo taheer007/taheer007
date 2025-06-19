@@ -60,7 +60,7 @@
   
 <h3>🚀 Projects</h3>
 
-- 💻 [Online Voting System Using Face Recognition](https://github.com/taheer007/online-voting-system)
+- 💻 [Online Voting System Using Face Recognition](https://github.com/taheer007/Online-Voting-System-using-Face-Recognition)
 - 📊 [Music Streaming Website](https://github.com/taheer007/Music-Streaming-Website)
 - 🤖 [Virtual Desktop Assistant](https://github.com/taheer007/Virtual-Desktop-Assistant)
 - 📅 [Placement Management System](https://github.com/taheer007/Placement-Management-System)
