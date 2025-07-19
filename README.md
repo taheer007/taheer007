@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEpnp2Qjsm36Se2sHI_DbNnyyLgOhunbO_A&s)
+![logo](https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)
 
 <h1 align="center">Hi 👋, I'm Mohammed Taheer</h1>
 <h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Problem Solver</h3>
