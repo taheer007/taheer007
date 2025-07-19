@@ -1,4 +1,4 @@
-![logo](https://github.com/taheer007/taheer007/blob/main/Screenshot%202025-03-06%20072349.png)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEpnp2Qjsm36Se2sHI_DbNnyyLgOhunbO_A&s)
 
 <h1 align="center">Hi 👋, I'm Mohammed Taheer</h1>
 <h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Problem Solver</h3>
