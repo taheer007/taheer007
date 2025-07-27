@@ -1,7 +1,7 @@
 ![logo](Mohammed_Taheer_banner.png)
 
 <h1 align="center">Hi 👋, I'm Mohammed Taheer</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React.js | REST APIs | Building Scalable Web Applications</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFjejEzNDN2MnBpdXNnaXhnMnpvaWFmbWE3d3N3ZXozNzNzb3piZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 - 📫 How to reach me **mohammedtaheer206@gmail.com**
@@ -59,8 +59,8 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
   
-<h3>🚀 Projects</h3>
-
+<h3>🚀 Projects </h3>
+- 🗳️ [Online Voting System Using Face Recognition](https://github.com/taheer007/Online-Voting-System-using-Face-Recognition)
 - 💻 [Placement Management System](https://github.com/taheer007/Placement-Management-System)
 - 📊 [Music Streaming Website](https://github.com/taheer007/Music-Streaming-Website)
 - 🤖 [Hospital Management System](https://taheer007.github.io/Hospital-Management-System/)
