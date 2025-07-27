@@ -60,11 +60,11 @@
   </a> 
   
 <h3>🚀 Projects </h3>
-- 🗳️ [Online Voting System Using Face Recognition](https://github.com/taheer007/Online-Voting-System-using-Face-Recognition)
-- 💻 [Placement Management System](https://github.com/taheer007/Placement-Management-System)
-- 📊 [Music Streaming Website](https://github.com/taheer007/Music-Streaming-Website)
-- 🤖 [Hospital Management System](https://taheer007.github.io/Hospital-Management-System/)
-- 📅 [E-Commerce Book Store Website](https://taheer007.github.io/online-bookstore/)
+- 🗳️ [Online Voting System Using Face Recognition](https://github.com/taheer007/Online-Voting-System-using-Face-Recognition)<br>
+- 💻 [Placement Management System](https://github.com/taheer007/Placement-Management-System)<br>
+- 📊 [Music Streaming Website](https://github.com/taheer007/Music-Streaming-Website)<br>
+- 🤖 [Hospital Management System](https://taheer007.github.io/Hospital-Management-System/)<br>
+- 📅 [E-Commerce Book Store Website](https://taheer007.github.io/online-bookstore/)<br>
 - 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&locale=en" alt="taheer007" /></p>
